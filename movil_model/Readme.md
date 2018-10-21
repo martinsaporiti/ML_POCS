@@ -180,4 +180,6 @@ Notar que el parámetro *TRAINED_CKPT_PREFIX* debe tener el nombre del modelo (e
 
 ## 5. Evaluación del modelo generado
 
+Testear el modelo entrenado
 
+[Quick Start: Jupyter notebook for off-the-shelf inference](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/running_notebook.md)
