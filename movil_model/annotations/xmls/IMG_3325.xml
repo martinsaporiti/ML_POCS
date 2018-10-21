@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbnail</folder>
+	<filename>IMG_3325.JPEG</filename>
+	<path>/Users/sapo/Development/workspace-python/cvtest/images/oda_images/batimovil/IMG_3325.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>batimovil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>29</ymin>
+			<xmax>378</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+
+/dlib
+
+frozen_model.pb
+
+/cvtest
+
+.ipynb_checkpoints/
+
+/models/
+
+.vscode/
+
+/ssd_mobilenet_v1_coco_2017_11_17

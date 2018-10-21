@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbnail</folder>
+	<filename>IMG_3388.JPEG</filename>
+	<path>/Users/sapo/Development/workspace-python/cvtest/images/oda_images/toreto/IMG_3388.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>toreto</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>48</ymin>
+			<xmax>359</xmax>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+</annotation>
