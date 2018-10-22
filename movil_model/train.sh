@@ -1,6 +1,6 @@
 export PIPELINE_CONFIG_PATH=model/model.config
 export MODEL_DIR=model/
-export NUM_TRAIN_STEPS=30
+export NUM_TRAIN_STEPS=40
 export SAMPLE_1_OF_N_EVAL_EXAMPLES=1
 
 SECONDS=0
