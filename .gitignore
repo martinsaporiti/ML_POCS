@@ -12,3 +12,7 @@ frozen_model.pb
 .vscode/
 
 /ssd_mobilenet_v1_coco_2017_11_17
+
+/videos
+
+.idea
