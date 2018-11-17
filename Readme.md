@@ -38,6 +38,13 @@ ln -S /usr/local/Cellar/opencv/3.4.3/lib/python3.7/site-packages/cv2.cpython-37m
 
 ### 5. Instalar dlib
 
+Necesitamos instalar CMake
+
+```
+brew install cmake
+```
+Luego instalamos dlib
+
 ```
 git clone https://github.com/davisking/dlib.git
 
